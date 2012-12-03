@@ -1,0 +1,3 @@
+DELETE This page
+<?php
+?>
